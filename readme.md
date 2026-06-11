@@ -322,6 +322,7 @@
 - https://www.digitclub.xyz
 
 ## Ethereum
+- https://deepbluealpha.io - Real-time whale wallet tracker for Ethereum — 10,000+ wallets monitored block-by-block, net flow per token, free public API
 - https://ethstats.net
 - https://ethstats.io
 - https://ethernodes.org
