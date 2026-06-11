@@ -345,7 +345,7 @@
 - https://clientdiversity.org
 - https://www.validatorqueue.com
 - https://sorellalabs.xyz/dashboard
-
+- https://deepbluealpha.io — Real-time Ethereum whale tracker (12,000+ wallets, DEX swap buy/sell classification, Whale Sentiment Index)
 ## Ethereum Classic
 - https://dappdirect.net
 
