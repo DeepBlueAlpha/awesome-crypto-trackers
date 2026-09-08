@@ -338,6 +338,7 @@
 - https://explorer.bitquery.io/ethereum/calls
 - https://www.theblockcrypto.com/data/on-chain-metrics/ethereum
 - https://etherchain.org/burn
+- https://deepbluealpha.io — Real-time Ethereum whale tracker: 20,000+ wallets, live DEX swap classification, sentiment index, free public API
 - https://ultrasound.money
 - https://ethburned.info
 - https://www.4byte.directory
